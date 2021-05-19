@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="title_select_gender">Select Gender</string>
+    <string name="err_msg_invalid_email">Enter valid Email address</string>
+
+    <string-array name="select_gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
